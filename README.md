@@ -1,2 +1,25 @@
-# 283ca78b-wedding-events-client-report
-Every wedding events professionals needs this — most just don't know it yet.  Ready to use immediately — open, fill in your details, done. Fully editable: every field, color, and section customizable.  ## What's Included  - Wedding &amp; Events Client Reporting Dashboard — fully configured and ready to use - Fully editable: all fields, colors, and sect
+# Wedding & Events Client Reporting Dashboard Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/aFafZh3aLaQAcVW33mcZJ26)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/aFafZh3aLaQAcVW33mcZJ26)
+
